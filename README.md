@@ -2,6 +2,6 @@
 Repository contains reports for Machine_Learning course on AGH-University of Science
 
 
-Lab 1 - Introduction to Python
-Lab 2 - Linear regression
-Lab 3 - Logistic regression
+1. Lab 1 - Introduction to Python
+2. Lab 2 - Linear regression
+3. Lab 3 - Logistic regression
